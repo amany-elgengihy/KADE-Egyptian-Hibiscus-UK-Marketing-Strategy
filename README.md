@@ -120,7 +120,7 @@ Each team member may showcase only her own listed contributions in her portfolio
 
 ## 7. Instructor
 
-**[Instructor's name]** – DEPI Digital Marketing Specialist Track
+**Dr. Tamer Elmoghazy** – DEPI Digital Marketing Specialist Track
 
 ## 8. Project Files
 
