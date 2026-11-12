@@ -2,7 +2,7 @@
 
 > **Digital Egypt Pioneers Initiative (DEPI) – Digital Marketing Specialist Track | Capstone Project**
 
-**Brand:** KADÉ (virtual brand) · **Product:** Egyptian hibiscus (karkadeh) · **Target market:** United Kingdom (B2C) · **Team:** 6 members
+**Brand:** KADÉ (virtual brand) · **Product:** Egyptian hibiscus (karkadeh) · **Target market:** United Kingdom (B2C, with selective B2B) · **Team:** 6 members
 
 ---
 
