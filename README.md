@@ -84,4 +84,80 @@ Certified organic · Caffeine-free · Sugar-free · Gluten-free · Dairy-free
 
 | Member | Role | Contributions |
 |---|---|---|
-| Amany Elgengihy | Project Originator, Team Leader & Marketing Strategist | The project idea and concept, the KADÉ brand name and the visual identity were conceived by the Project Originator, who also serves as Team Leader and Marketing Strategist.<br><br><b>Strategy and concept</b><br>• Originated the project idea and the KADÉ brand name<br>• Defined the overall strategy for entering the UK market, covering market and competitor research, audience analysis, brand positioning and digital marketing planning<br>• Proposed an interactive QR code linking UK consumers unfamiliar with hibiscus to hot and cold drink recipes<br>• Defined the brand positioning (accessible premium) and wrote the USP: <i>Authentic Egyptian Hibiscus, Made Easy — Tailored to Your Taste</i>, supported by the product attributes: certified organic, caffeine-free, sugar-free, gluten-free and dairy-free<br><br><b>Brand identity</b><br>• Designed the KADÉ logo, packaging designs and taglines, and wrote the packaging copy<br>• Developed the buyer personas (<i>Sophie Williams</i> and <i>James Carter</i>)<br>• Created the KADÉ Facebook page and cover image<br>• Wrote the brand and content guidelines (colour palette, typography, visual formats, and rules on health, organic and sales claims)<br>• Defined the product information: formats, pack sizes and proposed UK prices<br><br><b>Research and analysis</b><br>• Led the UK market research and compiled the research sources for the team, including UK competitors, product research and consumer communities<br>• Built all of the project's Google Sheets, including the templates the team used for their individual research and analysis<br>• Researched competitor products and consumer reviews, and completed a full individual PEST, SWOT and SMART analysis<br>• Consolidated the six members' individual analyses into the team's final PEST, SWOT and SMART analysis, removing duplication and highlighting the decisions the team needed to make<br>• Wrote the executive summary in English and Arabic, and a guide to non-compliance risks (food safety, labelling, organic and health claims)<br><br><b>Team leadership and content execution</b><br>• Leads the six-member team: assigns responsibilities and organises and runs the team meetings<br>• Guides and reviews each member's work, requests revisions where needed and approves final outputs<br>• Follows up on progress and deadlines, and supports team members until their work is delivered<br>• Created the 21-post content calendar, defining the four content pillars (Awareness, Educational, Engagement and Product Promotion) and all post topics, assigned posts to each member and built the execution dashboard<br>• Created social media posts [to be confirmed], including KADÉ-01 "Why KADÉ? Our Brand Vision"<br>• Set up the content approval workflow, and publishes all posts on the KADÉ page<br>• Produced the campaign video and launched the paid Meta awareness campaign targeting UK audiences on 14 November 2026<br>• Prepares and delivers the final project presentation<br>•
+| Amany Elgengihy | Project Originator, Team Leader & Marketing Strategist | The project idea and concept, the KADÉ brand name and the visual identity were conceived by the Project Originator, who also serves as Team Leader and Marketing Strategist.<br><br><b>Strategy and concept</b><br>• Originated the project idea and the KADÉ brand name<br>• Defined the overall strategy for entering the UK market, covering market and competitor research, audience analysis, brand positioning and digital marketing planning<br>• Proposed an interactive QR code linking UK consumers unfamiliar with hibiscus to hot and cold drink recipes<br>• Defined the brand positioning (accessible premium) and wrote the USP: <i>Authentic Egyptian Hibiscus, Made Easy — Tailored to Your Taste</i>, supported by the product attributes: certified organic, caffeine-free, sugar-free, gluten-free and dairy-free<br><br><b>Brand identity</b><br>• Designed the KADÉ logo, packaging designs and taglines, and wrote the packaging copy<br>• Developed the buyer personas (<i>Sophie Williams</i> and <i>James Carter</i>)<br>• Created the KADÉ Facebook page and cover image<br>• Wrote the brand and content guidelines (colour palette, typography, visual formats, and rules on health, organic and sales claims)<br>• Defined the product information: formats, pack sizes and proposed UK prices<br><br><b>Research and analysis</b><br>• Led the UK market research and compiled the research sources for the team, including UK competitors, product research and consumer communities<br>• Built all of the project's Google Sheets, including the templates the team used for their individual research and analysis<br>• Researched competitor products and consumer reviews, and completed a full individual PEST, SWOT and SMART analysis<br>• Consolidated the six members' individual analyses into the team's final PEST, SWOT and SMART analysis, removing duplication and highlighting the decisions the team needed to make<br>• Wrote the executive summary in English and Arabic, and a guide to non-compliance risks (food safety, labelling, organic and health claims)<br><br><b>Team leadership and content execution</b><br>• Leads the six-member team: assigns responsibilities and organises and runs the team meetings<br>• Guides and reviews each member's work, requests revisions where needed and approves final outputs<br>• Follows up on progress and deadlines, and supports team members until their work is delivered<br>• Created the 21-post content calendar, defining the four content pillars (Awareness, Educational, Engagement and Product Promotion) and all post topics, assigned posts to each member and built the execution dashboard<br>• Created social media posts [to be confirmed], including KADÉ-01 "Why KADÉ? Our Brand Vision"<br>• Set up the content approval workflow, and publishes all posts on the KADÉ page<br>• Produced the campaign video and launched the paid Meta awareness campaign targeting UK audiences on 14 November 2026<br>• Prepares and delivers the final project presentation<br>• Built and manages this GitHub repository and the project's submission |
+| Rania Lotfy | Team Member | Competitor and community research (Natur Boutique, Quora); individual PEST, SWOT and SMART analysis; social media posts [to be confirmed] |
+| Israa Ali | Team Member | Competitor research (Shibui Tea); individual PEST, SWOT and SMART analysis; social media posts [to be confirmed] |
+| Rana Mahmoud | Team Member | Consumer insights from Reddit discussions; competitor research (The Natural Health Market); social media posts [to be confirmed] |
+| Maggie Shalaby | Team Member | Individual PEST, SWOT and SMART analysis; social media posts [to be confirmed] |
+| Menna Mokhtar | Team Member | Competitor research (Pukka, Twinings); individual PEST and SWOT analysis, including UK food labelling sources; social media posts [to be confirmed] |
+
+Each team member may showcase only her own listed contributions in her portfolio.
+
+## 6. KPIs
+
+### Strategic SMART objectives (proposed for a 6-month launch period)
+
+| Objective | Target | Timeline | KPI / measurement |
+|---|---|---|---|
+| Brand awareness | Reach 100,000 unique users in the UK target audience | First 6 months | Deduplicated UK reach; impressions; frequency |
+| Consumer research | Collect 150 valid responses from UK target consumers | First 3 months | Valid survey responses; purchase intention; price acceptance |
+| Website traffic | Generate 5,000 website sessions from the UK | First 6 months | GA4 UK sessions; channel mix; engaged sessions |
+| Community growth | Reach 2,000 combined Instagram and TikTok followers | First 6 months | Follower count; net growth; engagement rate |
+| Email lead generation | Acquire 300 consent-based email subscribers | First 6 months | Opted-in subscribers; sign-up conversion rate |
+| B2B lead generation | Generate 30 qualified UK trade leads | First 90 days | Qualified B2B leads recorded in CRM |
+| B2B meetings | Secure 10 meetings with prospective UK trade buyers | First 90 days | Completed or confirmed buyer meetings |
+| Content marketing | Publish 16 educational and lifestyle posts | First 8 weeks | Published posts across selected channels |
+
+### Capstone execution KPIs (actual project activity)
+
+| KPI | Target | Result |
+|---|---|---|
+| Posts published on Facebook & Instagram | 21 | [To be updated] |
+| Total reach | [Target] | [To be updated] |
+| Total engagement | [Target] | [To be updated] |
+| Meta campaign reach (UK) | [Target] | [To be updated] |
+| Meta campaign cost per result | [Target] | [To be updated] |
+
+## 7. Instructor
+
+**[Instructor's name]** – DEPI Digital Marketing Specialist Track
+
+## 8. Project Files
+
+| File | Contents | Link |
+|---|---|---|
+| Hibiscus UK Market Research & Consumer Insights | Competitor research, review and community insights, final product decisions | [Google Drive link] |
+| PEST, SWOT & SMART Objectives | Individual and consolidated analyses, SMART objectives, executive summary (EN/AR) | [Google Drive link] |
+| Brand Designs & Buyer Personas | Logo, buyer personas, packaging designs, brand and content guidelines, product information | [Google Drive link] |
+| Team Content & Execution | Content calendar, individual post briefs, execution dashboard | [Google Drive link] |
+| Canva designs | Logo, packaging and social media designs | [Canva link] |
+| Final presentation | Capstone presentation | [Google Drive / Canva link] |
+| KADÉ Facebook page | Published content | [Facebook link] |
+
+## Sources
+
+**Competitors and product research**
+
+- Pukka Herbs – https://www.pukkaherbs.com/uk/en
+- Twinings – https://twinings.co.uk/collections/hibiscus-tea
+- Whittard of Chelsea – https://www.whittard.co.uk
+- Shibui Tea – https://www.shibui-tea.co.uk
+- The Natural Health Market – https://www.thenaturalhealthmarket.co.uk/collections/herbal-tea/hibiscus
+- Natur Boutique – https://naturboutique.co.uk/
+- Tealyra – https://www.tealyra.com/
+- Amazon UK – https://www.amazon.co.uk/s?k=hibiscus+tea
+- Holland & Barrett – https://www.hollandandbarrett.com/search/?query=hibiscus
+
+**Consumer communities**
+
+- Reddit r/tea – https://www.reddit.com/r/tea/
+- Quora – https://www.quora.com/search?q=hibiscus%20tea
+- Instagram #hibiscustea – https://www.instagram.com/explore/tags/hibiscustea/
+
+**Regulation**
+
+- GOV.UK – Food labelling and packaging – https://www.gov.uk/food-labelling-and-packaging
+
+---
+
+*KADÉ is an academic project prepared for the Digital Egypt Pioneers Initiative (DEPI), an initiative of Egypt's Ministry of Communications and Information Technology (MCIT). Brand name and concept © 2026 the Project Originator.*
